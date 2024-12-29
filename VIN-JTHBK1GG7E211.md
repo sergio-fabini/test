@@ -1,9 +1,3 @@
- <details>
-<summary><b>My section header in bold</b></summary>
-
-Any folded content here. It requires an empty line just above it.
-
-</details>
 
 [![](https://vincheck.me/vincheck_logo.png)](https://vincheck.me/)
 
@@ -87,11 +81,11 @@ UNKNOWN OR OTHER
 
 VEHICLE ACCELERATED WITHOUT WARNING WHEN IT WAS PUT IN REVERSE, CAUSING IT TO HIT A PARKED CAR IN BACK OF IT. THE ACCELERATION WAS INSTANTANEOUS AND VERY FAST. AS A RESULT, THE DRIVER DID NOT HAVE TIME TO REACT BEFORE THE VEHICLE SLAMMED INTO THE PARKED CAR. \*TT
 
-  
 
-Vehicle identification numbers:
+ <details>
+<summary><b>Full list of VINs</b></summary>
 
-*   JTHBK1GG7E2100005
+ JTHBK1GG7E2100005
 *   JTHBK1GG7E2100019
 *   JTHBK1GG7E2100022
 *   JTHBK1GG7E2100036
@@ -2620,6 +2614,12 @@ Vehicle identification numbers:
 *   JTHBK1GG7E2127785
 *   JTHBK1GG7E2127799
 *   JTHBK1GG7E2127804
+
+</details>
+
+  
+
+Vehicle identification numbers:
 *   JTHBK1GG7E2127818
 *   JTHBK1GG7E2127821
 *   JTHBK1GG7E2127835
